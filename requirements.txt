@@ -1,0 +1,8 @@
+streamlit
+langchain
+langchain-core
+langchain-chroma
+langchain-ollama
+langchain-huggingface
+sentence-transformers
+chromadb
